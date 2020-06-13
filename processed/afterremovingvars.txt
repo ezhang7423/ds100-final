@@ -1,0 +1,19 @@
+START: ['gamelength', 'totalgoldblue', 'earlygoldblue', 'midgoldblue',
+                'totalgoldred', 'earlygoldred', 'midgoldred',
+                'earlygolddiff', 'midgolddiff', 'bKills',
+                'bTowers', 'bInhibs', 'bDragons', 'bBarons', 'bHeralds', 'rKills',
+                'rTowers', 'rInhibs', 'rDragons', 'rBarons', 'rHeralds', 'Year']
+
+ACC: 98.2
+
+REMOVE: ['totalgoldblue', 'totalgoldred']
+
+ACC: 98.4
+
+REMOVE: ['rKills', 'bKills']
+
+ACC: 97.7%
+
+REMOVE: ['rInhibs, 'bInhibs', 'rTowers', 'bTowers']
+
+ACC: 89.7%
